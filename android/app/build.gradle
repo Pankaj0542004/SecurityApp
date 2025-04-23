@@ -82,17 +82,17 @@ def jscFlavor = 'org.webkit:android-jsc:+'
 
 android {
     ndkVersion rootProject.ext.ndkVersion
-
     buildToolsVersion rootProject.ext.buildToolsVersion
+    compileSdkVersion 34
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.boltexponativewind"
+    namespace 'com.pankaj_2004.boltexponativewind'
     defaultConfig {
-        applicationId "com.boltexponativewind"
+        applicationId 'com.pankaj_2004.boltexponativewind'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
-        versionName "1.0"
+        versionName "1.0.0"
     }
     signingConfigs {
         debug {
