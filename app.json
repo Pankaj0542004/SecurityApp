@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "bolt-expo-nativewind",
-    "slug": "bolt-expo-nativewind",
+    "slug": "security-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -28,7 +28,7 @@
         "origin": false
       },
       "eas": {
-        "projectId": "e6cd23cb-1cc3-4f68-b371-15712db0d9c1"
+        "projectId": "206a55ef-ae5f-4105-8cb2-b1a990836b26"
       }
     },
     "android": {
@@ -36,6 +36,6 @@
       "permissions": [],
       "versionCode": 1
     },
-    "owner": "varad25"
+    "owner": "pankajm05"
   }
 }
