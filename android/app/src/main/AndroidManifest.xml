@@ -29,6 +29,7 @@
         <data android:scheme="myapp"/>
         <data android:scheme="com.pankaj_2004.boltexponativewind"/>
         <data android:scheme="exp+bolt-expo-nativewind"/>
+        <data android:scheme="exp+security-application-"/>
       </intent-filter>
     </activity>
   </application>
